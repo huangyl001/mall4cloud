@@ -59,7 +59,7 @@
     "@dcloudio/uni-quickapp-native": "^2.0.1-33920220314002",
     "@dcloudio/uni-quickapp-webview": "^2.0.1-33920220314002",
     "@dcloudio/uni-stat": "^2.0.1-33920220314002",
-    "@vue/shared": "^3.2.31",
+    "@vue/shared": "^3.3.4",
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "eslint": "^7.18.0",
