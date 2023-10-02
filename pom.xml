@@ -52,7 +52,7 @@
         <knife4j.version>4.0.0</knife4j.version>
         <springdoc.version>1.6.9</springdoc.version>
         <elasticsearch.version>7.17.5</elasticsearch.version>
-        <minio.version>8.2.2</minio.version>
+        <minio.version>8.4.4</minio.version>
         <rocketmq-springboot.version>2.2.2</rocketmq-springboot.version>
         <weixin.version>4.0.0</weixin.version>
         <spring-javaformat.version>0.0.22</spring-javaformat.version>
