@@ -43,7 +43,7 @@
 
         <!-- 次要依赖 -->
         <hutool-version>5.8.11</hutool-version>
-        <mybatis-spring-boot-starter.version>2.3.0</mybatis-spring-boot-starter.version>
+        <mybatis-spring-boot-starter.version>3.0.0</mybatis-spring-boot-starter.version>
         <pagehelper-spring-boot-starter.version>1.4.3</pagehelper-spring-boot-starter.version>
         <orika.version>1.5.4</orika.version>
         <jsoup.version>1.13.1</jsoup.version>
