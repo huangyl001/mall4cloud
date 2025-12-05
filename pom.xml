@@ -51,7 +51,7 @@
         <captcha.version>1.2.5</captcha.version>
         <knife4j.version>4.0.0</knife4j.version>
         <springdoc.version>1.6.9</springdoc.version>
-        <elasticsearch.version>7.17.5</elasticsearch.version>
+        <elasticsearch.version>7.17.8</elasticsearch.version>
         <minio.version>8.2.2</minio.version>
         <rocketmq-springboot.version>2.2.2</rocketmq-springboot.version>
         <weixin.version>4.0.0</weixin.version>
